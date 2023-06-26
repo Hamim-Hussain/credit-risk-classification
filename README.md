@@ -1,2 +1,2 @@
 # credit-risk-classification
-![Capture](images/Capture.JPG)
+<img src="images/Capture.JPG" width="1000" height="491">
